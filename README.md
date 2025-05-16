@@ -2,8 +2,8 @@
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
 
-<div align="center">
-  <img src="https://huggingface.co/datasets/Han03430/CoCoPIF/resolve/main/icon2.png" width="60%" alt="CoCoPIF" />
+<div align="center" style="line-height: 1;">
+  <h1><img src="icon2.png" width="40" alt=""> CoCoPIF</h1>
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
